@@ -149,3 +149,10 @@ header nav a {
   color: black;
   font-style: bold;
 }
+img {
+  width: 50%;
+}
+.top-section {
+  padding: 30px;
+  background-color: burlywood;
+}
